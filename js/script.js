@@ -69,4 +69,4 @@ switch (num) {
         alert(result = 'осень')
         break;
 }
-alert(result);
+
